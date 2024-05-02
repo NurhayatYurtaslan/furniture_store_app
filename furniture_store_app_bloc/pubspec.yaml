@@ -14,7 +14,7 @@ dependencies:
   flutter_bloc: ^8.1.5
   #asset gen
   flutter_gen: ^5.4.0
-  
+  build_runner: ^2.4.9
 
 
 dev_dependencies:
@@ -29,4 +29,4 @@ flutter:
 
   assets:
     - assets/images/
-    - assets/icons/
+    - assets/fonts/
