@@ -1,2 +1,2 @@
 # furniture_store_app
- State Managment BloC
+ State Managment BloC or Cubit
