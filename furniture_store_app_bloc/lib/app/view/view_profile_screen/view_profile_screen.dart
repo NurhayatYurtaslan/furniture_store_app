@@ -12,8 +12,11 @@ class ProfileScreen extends StatelessWidget {
         children: [
           Image.asset(
             Assets.images.profilePic.path,
-            width: 100, 
-            height: 100, 
+            width: 100,
+            height: 100,
+          ),
+          const SizedBox(
+            height: 20,
           ),
           const Text(
             "Hello Nurhayat!",
