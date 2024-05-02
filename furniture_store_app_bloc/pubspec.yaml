@@ -15,6 +15,13 @@ dependencies:
   #asset gen
   flutter_gen: ^5.4.0
   build_runner: ^2.4.9
+  #rating bar
+  flutter_rating_bar: ^4.0.1
+  simple_animations: ^5.0.2
+  font_awesome_flutter: ^10.7.0
+  smooth_page_indicator: ^1.1.0
+  equatable: ^2.0.5
+  flutter_hooks: ^0.20.5
 
 
 dev_dependencies:
