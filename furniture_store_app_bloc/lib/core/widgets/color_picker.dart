@@ -11,6 +11,7 @@ class ColorPicker extends HookWidget {
     required this.colors,
   });
 
+  @override
   Widget build(BuildContext context) {
     final colorUseState = useState<List<FurnitureColor>>(colors);
 

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:furniture_store_app_bloc/gen/assets.gen.dart';
 
 class ProfileScreen extends StatelessWidget {
@@ -11,7 +10,11 @@ class ProfileScreen extends StatelessWidget {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Image.asset(Assets.images.profilePic.path),
+          Image.asset(
+            Assets.images.profilePic.path,
+            width: 100, 
+            height: 100, 
+          ),
           const Text(
             "Hello Nurhayat!",
             style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
