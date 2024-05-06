@@ -13,3 +13,15 @@ Cart Screen                |  Favorite Screen            |  Profile Screen
 ![](https://github.com/NurhayatYurtaslan/furniture_store_app/blob/main/furniture_store_app_bloc/screenshots/7.png?raw=true) |![](https://github.com/NurhayatYurtaslan/furniture_store_app/blob/main/furniture_store_app_bloc/screenshots/8.png?raw=true) |![](https://github.com/NurhayatYurtaslan/furniture_store_app/blob/main/furniture_store_app_bloc/screenshots/4.png?raw=true) 
 
 
+## To Do
+
+- [ ] Localization
+- [ ] AutoRoute
+- [ ] Local Db
+- [ ] Hive
+- [ ] Api
+- [ ] Login Page
+- [ ] Firebase Auth
+- [ ] Profile Page
+- [ ] Theme
+- [ ] Add Favorite List
