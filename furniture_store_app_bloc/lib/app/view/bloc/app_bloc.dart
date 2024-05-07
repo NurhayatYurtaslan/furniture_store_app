@@ -20,6 +20,17 @@ class FurnitureBloc extends Bloc<FurnitureEvent, FurnitureState> {
 
   final Repository repository;
 
+ void _getTotalPrice(Emitter<FurnitureState> emit) {
+    double totalPrice = 0.0;
+
+    for (var element in state.mainItems) {
+      if (element.cart) {
+        totalPrice += element.quantity * element.price;
+      }
+    }
+    emit(FurnitureState(mainItems: state.mainItems, totalPrice: totalPrice));
+  }
+
   void _increaseQuantity(
       IncreaseQuantityEvent event, Emitter<FurnitureState> emit) {
     final List<Furniture> items =
@@ -70,16 +81,7 @@ class FurnitureBloc extends Bloc<FurnitureEvent, FurnitureState> {
     emit(FurnitureState(mainItems: items));
   }
 
-  void _getTotalPrice(Emitter<FurnitureState> emit) {
-    double totalPrice = 0.0;
 
-    for (var element in state.mainItems) {
-      if (element.cart) {
-        totalPrice += element.quantity * element.price;
-      }
-    }
-    emit(FurnitureState(mainItems: state.mainItems, totalPrice: totalPrice));
-  }
 
   get getCartList => state.mainItems.where((element) => element.cart).toList();
 
