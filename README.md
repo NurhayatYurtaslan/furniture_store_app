@@ -29,6 +29,8 @@ Cart Screen                |  Favorite Screen            |  Profile Screen
 - [ ] Profile Page
 - [ ] Theme
 - [ ] Add Favorite List
+- [ ] Snackbar
+- [ ] Notification
 
 <a href=""><img src="https://img.shields.io/github/license/NurhayatYurtaslan/furniture_store_app.svg?style=flat-square" alt="License"></a>
 ![](https://komarev.com/ghpvc/?username=NurhayatYurtaslan&style=flat-square)
