@@ -1,4 +1,8 @@
 # Furniture Store App
+
+
+![Visitor Count](https://profile-counter.glitch.me/{NurhayatYurtaslan}/count.svg)
+
 Office Furniture Store app is a design implementation
 of [Office Furniture Store app](https://dribbble.com/shots/16394699-E-commerce-design-concept)
 designed by [Jonatan](https://dribbble.com/Jhonatan_artist23)
@@ -25,3 +29,6 @@ Cart Screen                |  Favorite Screen            |  Profile Screen
 - [ ] Profile Page
 - [ ] Theme
 - [ ] Add Favorite List
+
+<a href=""><img src="https://img.shields.io/github/license/NurhayatYurtaslan/furniture_store_app.svg?style=flat-square" alt="License"></a>
+![](https://komarev.com/ghpvc/?username=NurhayatYurtaslan&style=flat-square)
