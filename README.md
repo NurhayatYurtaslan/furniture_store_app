@@ -13,7 +13,7 @@ Intro                      |   List screen             |   Detail Screen
 ![](https://github.com/NurhayatYurtaslan/furniture_store_app/blob/main/furniture_store_app_bloc/screenshots/1.png?raw=true) |![](https://github.com/NurhayatYurtaslan/furniture_store_app/blob/main/furniture_store_app_bloc/screenshots/2.png?raw=true) | ![](https://github.com/NurhayatYurtaslan/furniture_store_app/blob/main/furniture_store_app_bloc/screenshots/5.png?raw=true) |![]
 
 Cart Screen                |  Favorite Screen            |  Profile Screen
-:-------------------------:  |:-------------------------:|:-----------------------
+:-------------------------:  |:-------------------------:|:-----------------------:
 ![](https://github.com/NurhayatYurtaslan/furniture_store_app/blob/main/furniture_store_app_bloc/screenshots/7.png?raw=true) |![](https://github.com/NurhayatYurtaslan/furniture_store_app/blob/main/furniture_store_app_bloc/screenshots/8.png?raw=true) |![](https://github.com/NurhayatYurtaslan/furniture_store_app/blob/main/furniture_store_app_bloc/screenshots/4.png?raw=true) 
 
 
